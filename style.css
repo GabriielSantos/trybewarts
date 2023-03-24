@@ -1,0 +1,158 @@
+body {
+  background-image: url('https://images5.alphacoders.com/129/1299476.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+.header {
+  height: 50px;
+  display: flex;
+  background-color: rgb(50, 167, 145);
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.trybewarts-header-logo {
+  height: 50px;
+  width: 50px;
+}
+
+.trybewarts-login {
+  display: flex;
+  justify-items: center;
+  align-items: center;
+}
+
+#box-senha {
+  margin-bottom: 0px !important;
+}
+
+.form-control {
+  margin-left: 10px;
+  height: 37.6px;
+}
+
+h1 {
+  font-size: 35px;
+  color: white;
+}
+
+#button-addon2 {
+  background-color: rgba(137, 43, 226, 0.66);
+  color: white;
+}
+
+#button-addon2:hover {
+  background-color: rgb(137, 43, 226);
+  color: white;
+}
+
+main {
+  margin-top: 20px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+#evaluation-form {
+  margin-top: 10px;
+  display: flex;
+  width: 780px;
+  flex-direction: column;
+}
+
+#input-name, #input-lastname {
+  width: 50%;
+  margin: 2px;
+
+}
+
+#input-email {
+  width: 380px;
+  height: 37.6px;
+}
+
+#house {
+  margin-left: 10px;
+  height: 37.6px;
+}
+
+#container1, #container2 {
+  display: flex;
+  justify-content: center;
+}
+
+#container-checks{
+  display: flex;
+  justify-content: center;
+}
+
+#label-content, #label-family {
+  margin-top: 0px;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+#container3 {
+  display: flex;
+  flex-direction: column;
+  width: 320px;
+}
+
+#container4 {
+  display: flex;
+  flex-direction: row;
+  width: 320px;
+  flex-wrap: wrap;
+}
+
+.form-check-conteudos {
+  margin-left: 20px;
+}
+
+#label-rate {
+  font-size: 16px;
+  margin-right: 5px;
+  margin-top: 10px;
+}
+
+#trybewarts-forms-logo {
+  height: 500px;
+}
+
+.textarea {
+  margin: 20px 10px;
+  font-size: 18px;
+}
+
+#container5 {
+  margin-top: 30px;
+  font-size: 16px;
+}
+
+#submit-btn {
+  margin-top: 20px;
+  width: 150px;
+  background-color: rgba(137, 43, 226, 0.723);
+  color: white;
+}
+
+#submit-btn:hover {
+  background-color: rgb(137, 43, 226);
+  color: white;
+}
+
+hr {
+  border: 1.5px solid white;
+}
+
+footer {
+  margin-top: 21px;
+  padding-top: 5px;
+  background-color: black;
+  color: white;
+  height: 45px;
+  text-align: center;
+}
+
